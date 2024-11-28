@@ -28,6 +28,6 @@ image_dir = 'output\\dog1\\suc_251.jpg'
 
 原始图片与生成的对抗图片对比如下：
 <p align='center'>
-  <img src='img/img1.png' width='200'/>
-  <img src='img/img2.png' width='200'/>
+  <img src='img/img1.jpg' width='200'/>
+  <img src='img/img2.jpg' width='200'/>
 </p>
